@@ -1,4 +1,4 @@
-In this project, I first cleaned the data using MySQL. 
+In this project, I first cleaned the data using MySQL. I removed duplicates, standardized the data, removed null values, and removed unnecessary columns. Next, I explored the data.
 
 In my exploratory data analysis, here are some trends I noticed:
 - The top 5 industries for total layoffs were Consumer, Retail, Other, Transportation, and Finance in that order
